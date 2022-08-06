@@ -1,6 +1,6 @@
-# How to use 8BitDo SN30pro USB Gamepad with Xubuntu
+# How to use 8BitDo SN30 Pro USB Gamepad with Xubuntu
 
-This Guide shows how to use the 8BitDo USB Gamepad with Xubuntu.
+This Guide shows how to use the 8BitDo SN30 Pro USB Gamepad with Xubuntu.
 
 
 
