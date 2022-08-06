@@ -11,7 +11,7 @@ The latter (X-input) let's us pair the gamepad as XBox controller, which is one 
 ## TL;DR
 1. Install XBox Controller Driver: `sudo apt-get install xboxdrv`
 2. Disable Other Drivers: `sudo rmmod xpad`
-3. Connect 8BitDo SN30 Pro USB Gamepad: sudo xboxdrv --silent`
+3. Connect _8BitDo SN30 Pro USB Gamepad_: `sudo xboxdrv --silent`
 
 ## Install XBox Controller Driver
 First we install the XBox controller driver:
