@@ -1,1 +1,1 @@
-# HowTo-8bitdo-SN30pro-Xubuntu
+# How to use 8BitDo SN30pro Controller (USB cable) with Xubuntu
