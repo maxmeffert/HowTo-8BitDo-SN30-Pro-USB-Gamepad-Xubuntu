@@ -8,6 +8,11 @@ The _8BitDo SN30 Pro USB Gamepad_ has two _Controller Modes_
 
 The latter (X-input) let's us pair the gamepad as XBox controller, which is one of the simpler ways to pair your gamepad with Xubuntu.
 
+## TL;DR
+1. Install XBox Controller Driver: `sudo apt-get install xboxdrv`
+2. Disable Other Drivers: `sudo rmmod xpad`
+3. Connect 8BitDo SN30 Pro USB Gamepad: sudo xboxdrv --silent`
+
 ## Install XBox Controller Driver
 First we install the XBox controller driver:
 
